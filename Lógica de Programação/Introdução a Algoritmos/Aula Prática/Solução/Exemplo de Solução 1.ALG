@@ -6,7 +6,7 @@ Algoritmo "semnome"
 // Data atual  : 28/05/2024
 Var
 // Seção de Declarações das variáveis 
-        ola mundo do JAVA
+dasdasdasd
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
