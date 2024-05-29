@@ -6,10 +6,12 @@ Algoritmo "semnome"
 // Data atual  : 28/05/2024
 Var
 // Seção de Declarações das variáveis 
-dasdasdasd
+
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+
+escreva("José A.L")
 
 
 Fimalgoritmo
