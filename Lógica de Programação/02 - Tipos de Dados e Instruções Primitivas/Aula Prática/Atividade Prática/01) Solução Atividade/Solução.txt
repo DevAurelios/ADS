@@ -1,0 +1,7 @@
+“Eu gosto de programar” - Literal de Tamanho 21
+123976.0 - Numérico Real Positivo com 1 casa decimal
+-1.3849 - Numérico Real Negativo com 4 casas decimais
+“ ” - Literal de Tamanho 1
+“nome” - Literal de Tamanho 4
+0 - Numérico Inteiro
+“@##$%” - Literal de Tamanho 5
